@@ -1,0 +1,12 @@
+product_name:Samsung
+quentity:2
+total:60000
+delivery_option:2
+Delivery Price: 0
+Packing: 1. Normal(Rs:1000) 2. Gift Packing(Rs:5000)
+packing_option:2
+Packing Price: 5000
+Location: 1.KTM(13%) 2. Lalitpur(0%) 3. Bhaktapur(0%)
+location_option:2
+Tax Amount: 0
+Grand Total: 65000
